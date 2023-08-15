@@ -1,2 +1,13 @@
 
-/* Your CSS Code here. */
+label,input{
+	margin:10px;
+	
+}
+form{
+	background-color:lightseagreen;
+	margin:70px;
+	width:350px;
+	display:justify;
+	height:300px;
+	border-radius:5%
+}
